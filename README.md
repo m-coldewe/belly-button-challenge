@@ -18,9 +18,5 @@ Functions popDemos, barChart, and bubbleChart all change when a new value is sel
 ## Result
 ![composite](https://github.com/m-coldewe/belly-button-challenge/assets/152045367/4c281fae-54b6-4456-8198-543aad60c7c6)
 
-![dashboard](https://github.com/m-coldewe/belly-button-challenge/assets/152045367/bda6f7a3-e71c-468d-a7fc-de7ef4d07a9f)
-
-![bubble](https://github.com/m-coldewe/belly-button-challenge/assets/152045367/b390b29b-9c0c-4cf8-82b8-24e14508488f)
-
 ## Summary
 The ability to see the top 10 bacterial specimens alongside the total bacterial specimens per subject allows the user to see a visual representation of something that is generally too small to see and easy to overlook, bringing awareness to the need for the potential consequences of a lack of hygiene. 
