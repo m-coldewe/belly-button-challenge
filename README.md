@@ -13,7 +13,10 @@ In order to create the interactive dashboard, the program uses a number of funct
 - popDemos(): compares the provided data to the selected subjectID and shows the demographic information associated with the selected subjectID
 - barChart(): graphs the sample data, for the top 10 samples, based on the selected subjectID as a horizontal bar chart
 - bubbleChart(): graphs the sample data for the subject based on the selected subjectID as a bubble chart, using the individual bacterium as markers with the number of specimens of that bacterium used for the size
-Functions popDemos, barChart, and bubbleChart all change when a new value is selected from the dropdown menu. 
+
+Functions popDemos, barChart, and bubbleChart all change when a new value is selected from the dropdown menu.
+
+I had a lot of trouble, initially, understanding how to conceptualize the project as a series of functions and how the functions could communicate with each other when functions are designed to be self-contained. Tutor Kourt helped me understand both aspects. 
 
 ## Result
 ![composite](https://github.com/m-coldewe/belly-button-challenge/assets/152045367/4c281fae-54b6-4456-8198-543aad60c7c6)
